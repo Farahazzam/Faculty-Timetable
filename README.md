@@ -1,1 +1,2 @@
-# Faculty-Timetable
+
+A python based project
